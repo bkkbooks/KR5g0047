@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0047/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0047/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傳授經戒儀註訣
+  date: '2015-08-29 02:49:29.240869'
+  source:
+    repository: kanripo
+    path: KR5g0047
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0047_000-ZTDZ.yaml, hash: 'sha256:0456319827360ebfcd93bf080295fc7a8975cbe2fd6dd6076e79b5dd45b7f111'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0047_000-ZTDZ.markers.yaml, hash: 'sha256:e7a61964630d277c1a6caa37c30163c73e78deac4dbb1d6b96e9d19933394449'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0047_SJB_000-320169c
+    span:
+    - body
+    - 0
+    - 5084
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f9edf21ad104e8f60480405ab627d6f0ba7b61f03d35be7cff9acdfe3329358a
